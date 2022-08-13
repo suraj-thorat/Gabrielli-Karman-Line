@@ -1,0 +1,8 @@
+For any vehicle type, motion is achieved through the action of a tractive force, which is the ratio of power (P) divided by velocity (V). If this ratio is further divided by the weight (W) then the non- dimensional specific tractive force (E ) is obtained (E =P/WV). This can also be interpreted as the specific resistance, akin to a coefficient of friction. The lower the value, the more ‘efficient’ the transport mode. 
+Gabrielli and von Kármán assembled a collection of data for installed power, maximum velocity and gross weight for a wide variety of transport modes. Their original data, transformed to SI units, is shown in Figure 1, in which E is plotted as a function of speed. Broadly speaking, sea, land and air transport are divided into bands ofE from 0.001 to 0.01, between 0.01 and 0.1 and greater than 0.1 respectively. The bulk of the data lies above a line of gradient 1, identified as the Gabrielli- Kármán (GK) line, which represents ‘best performance’. 
+
+The plot in the python notebook shows the graph of the G-K line and vehicles. Cars are represented by blue, planes by yellow, ships by green and trains by red.
+As we can see from the plot, trains and some planes lie below G-K line whereas other vehicles such as ships and cars are always above the G-K line. The closer you get to the line, the better is the performance of these vehicles. From the plot it is clear that most of the planes gives us better performance which can be concluded by the closeness to the GK line.
+
+
+
